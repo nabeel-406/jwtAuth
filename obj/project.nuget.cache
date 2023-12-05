@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "HkVRe20V+AsbO+wvcIO3FkALhxqnR3K1MW3jjxWoHSDPX3MgFPmK+t7/23f6TSHtomc1oJTTQz0dSAVYFtTtVA==",
+  "success": true,
+  "projectFilePath": "C:\\SampleCoreApp\\JwtWebApi\\JwtWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.14.1\\microsoft.identitymodel.jsonwebtokens.6.14.1.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.identitymodel.logging\\6.14.1\\microsoft.identitymodel.logging.6.14.1.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.14.1\\microsoft.identitymodel.tokens.6.14.1.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\newtonsoft.json\\6.0.6\\newtonsoft.json.6.0.6.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\system.identitymodel.tokens\\5.0.0-rc1-211161024\\system.identitymodel.tokens.5.0.0-rc1-211161024.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.14.1\\system.identitymodel.tokens.jwt.6.14.1.nupkg.sha512",
+    "C:\\Users\\MSIRAJME\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens 5.0.0-rc1-211161024' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.IdentityModel.Tokens",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
